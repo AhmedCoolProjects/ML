@@ -11,7 +11,7 @@ this repository for ML algorithms for examples from  real world problems.
 ## Logistic Regression
 <img src='https://user-images.githubusercontent.com/72823374/125107250-7840c300-e0d8-11eb-87c3-6d434ae3238a.png' alt='confusion matrix' />.
 ## Support Vector Machines (SVMs)
-<img src='https://user-images.githubusercontent.com/72823374/125166106-f1502100-e191-11eb-8168-83e6390c6591.png' alt'svm' />
+<img src='https://user-images.githubusercontent.com/72823374/125166106-f1502100-e191-11eb-8168-83e6390c6591.png' alt='svm' />
 <img src="https://user-images.githubusercontent.com/72823374/125166120-05941e00-e192-11eb-9508-868a2d26d7b8.png" alt="svm confusion matrix" />.
 
 
