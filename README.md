@@ -18,3 +18,8 @@ this repository for ML algorithms for examples from  real world problems.
 <img src="https://user-images.githubusercontent.com/72823374/125203408-1fa42e00-e270-11eb-9b38-529e30589953.png" alt="k-means clustering dataset" />
 <img src="https://user-images.githubusercontent.com/72823374/125203436-39de0c00-e270-11eb-9d5e-e94faa2d35f4.png" alt="k-means clusters" />
 <img src="https://user-images.githubusercontent.com/72823374/125203464-5aa66180-e270-11eb-8dcc-19b43c773d34.png" alt="k-means clusters 3d" />
+
+## Agglomerative Hierarchical Clustering
+<img src="https://user-images.githubusercontent.com/72823374/125212594-6dd42400-e2a6-11eb-9026-c57ac76ef47d.png" alt="hierarchical clustering plot" />
+<img src="https://user-images.githubusercontent.com/72823374/125212711-39ad3300-e2a7-11eb-9620-7c15d02f1d6f.png" width="700px" object-fit="contain" alt="hierarchical clustering plot" />
+<img src="https://user-images.githubusercontent.com/72823374/125212675-fd79d280-e2a6-11eb-835d-1986e6b10ffa.png" alt="ploting clusters" />
