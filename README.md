@@ -23,3 +23,7 @@ this repository for ML algorithms for examples from  real world problems.
 <img src="https://user-images.githubusercontent.com/72823374/125212594-6dd42400-e2a6-11eb-9026-c57ac76ef47d.png" alt="hierarchical clustering plot" />
 <img src="https://user-images.githubusercontent.com/72823374/125212711-39ad3300-e2a7-11eb-9620-7c15d02f1d6f.png" width="700px" object-fit="contain" alt="hierarchical clustering plot" />
 <img src="https://user-images.githubusercontent.com/72823374/125212675-fd79d280-e2a6-11eb-835d-1986e6b10ffa.png" alt="ploting clusters" />
+
+## BDSCAN Clustering
+<img src="https://user-images.githubusercontent.com/72823374/125216972-83057e80-e2b7-11eb-8924-0a05a875a9fa.png" alt="BDSCAN visualization" />
+<img src="https://user-images.githubusercontent.com/72823374/125216977-8567d880-e2b7-11eb-8df4-55fcdbbe3140.png" alt="BDSCAN map visualization" />
